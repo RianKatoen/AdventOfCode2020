@@ -20,11 +20,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AdventOfCode2020.Navigation\AdventOfCode2020.Navigation.csproj" />
+    <ProjectReference Include="..\AdventOfCode2020.Traveling\AdventOfCode2020.Traveling.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Maps\Example.txt">
+    <None Update="Input.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>

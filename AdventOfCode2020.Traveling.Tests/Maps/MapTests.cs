@@ -1,8 +1,8 @@
-﻿using AdventOfCode2020.Navigation.Maps;
+﻿using AdventOfCode2020.Traveling.Maps;
 using System.IO;
 using Xunit;
 
-namespace AdventOfCode2020.Navigation.Tests.Maps
+namespace AdventOfCode2020.Traveling.Tests.Maps
 {
     public class MapTests
     {

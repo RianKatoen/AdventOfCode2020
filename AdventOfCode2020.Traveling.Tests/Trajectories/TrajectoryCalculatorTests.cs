@@ -1,9 +1,9 @@
-﻿using AdventOfCode2020.Navigation.Maps;
-using AdventOfCode2020.Navigation.Trajectories;
+﻿using AdventOfCode2020.Traveling.Maps;
+using AdventOfCode2020.Traveling.Trajectories;
 using System.IO;
 using Xunit;
 
-namespace AdventOfCode2020.Navigation.Tests.Trajectories
+namespace AdventOfCode2020.Traveling.Tests.Trajectories
 {
     public class TrajectoryCalculatorTests
     {

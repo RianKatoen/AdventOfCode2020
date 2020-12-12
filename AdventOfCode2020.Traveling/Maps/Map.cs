@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace AdventOfCode2020.Navigation.Maps
+namespace AdventOfCode2020.Traveling.Maps
 {
     public class Map : IMap
     {

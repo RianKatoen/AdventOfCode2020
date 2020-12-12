@@ -1,6 +1,6 @@
-﻿using AdventOfCode2020.Navigation.Maps;
+﻿using AdventOfCode2020.Traveling.Maps;
 
-namespace AdventOfCode2020.Navigation.Trajectories
+namespace AdventOfCode2020.Traveling.Trajectories
 {
     public class TrajectoryCalculator
     {

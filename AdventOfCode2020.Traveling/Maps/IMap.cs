@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode2020.Navigation.Maps
+﻿namespace AdventOfCode2020.Traveling.Maps
 {
     public interface IMap
     {
