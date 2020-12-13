@@ -2,7 +2,7 @@
 using System.Linq;
 using Xunit;
 
-namespace AdventOfCode2020.Traveling.Tests
+namespace AdventOfCode2020.Traveling.Tests.Customs
 {
     public class QuestionnaireHandlerTests
     {
